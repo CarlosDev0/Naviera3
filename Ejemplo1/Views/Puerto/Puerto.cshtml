@@ -1,0 +1,193 @@
+﻿
+@{
+    ViewBag.Title = "Puerto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-page-body col-md-12">
+    <div class="card-header col-md-12 row">
+        <div class="col-md-12">
+            <center><b>PUERTOS</b></center>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div class="panel panel-info">
+        <div class="card-body">
+            <center><h4>Ingrese la Información del Nuevo Puerto para registrarlo</h4></center>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+
+                    @*<div class="form-group">*@
+                    <div class="col-md-12">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-3">
+                            <label align="left">Nombre Puerto:</label>
+                        </div>
+                        <div class="col-md-3">
+                            <input type="text" style="width: 90%;" class="form-control" id="txtNombrePuerto" />
+                        </div>
+                        <div class="col-md-2">
+                            <label>Pais:</label>
+
+                        </div>
+                        <div class="col-md-2">
+                            <input type="text" style="width: 90%;" class="form-control" id="txtPais" />
+                        </div>
+                        @*<div class="col-md-1"></div>*@
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3">
+                        <label align="left">RegistroMercantil:</label>
+                    </div>
+                    <div class="col-md-3">
+
+                        <input type="number" id="txtRegistroMercantil" min="0" style="width: 90%;" class="form-control" />
+                    </div>
+                    <div class="col-md-2">
+                        <label>Estado del Registro Mercantil:</label>
+                    </div>
+                    <div class="col-md-2">
+
+                        <select id="cmbEstadoRM" style="width: 90%;" class="form-control">
+                            <option value="true">Activo</option>
+                            <option value="false">Inactivo</option>
+                        </select>
+                    </div>
+                    @*<div class="col-md-1"></div>*@
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4" align="center">
+                        <center>
+                            <div class="form-group form-inline">
+                                <input type="button" value="GuardarPuerto" onclick="javascript:GuardarPuerto()" />
+                                <input type="button" value="ConsultarPuertos" onclick="javascript:ConsultarPuertos()" />
+                                <input type="button" value="Ver Diagrama" onclick="window.location.href='@Url.Action("TreeView", "Puerto")'" />
+                                
+                                @*</div>*@
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<table id="grid-selection" class="table table-condensed table-hover table-striped">
+    <thead>
+        <tr>
+            @*<th data-column-id="id" data-type="numeric" data-identifier="true">ID</th>*@
+            <th data-column-id="IdPuerto">Id Puerto</th>
+            <th data-column-id="Nombre">Nombre Puerto</th>
+            <th data-column-id="Pais" data-order="desc">Pais</th>
+            <th data-column-id="RegistroMercantil" data-formatter="link" data-sortable="false">Registro Mercantil</th>
+            <th data-column-id="EstadoRM" data-order="desc">Estado del Registro Mercantil</th>
+        </tr>
+    </thead>
+    <tbody id="tbodyId"></tbody>
+</table>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Puerto</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <input type="hidden" id="playerId" />
+                    <div class="form-group">
+                        <label for="nombrePuerto">Nombre Puerto</label>
+                        <input type="text" class="form-control" id="nombrePuertoM" placeholder="Puerto">
+                    </div>
+                    <div class="form-group">
+                        <label for="txtPais">Pais</label>
+                        <input type="text" class="form-control" id="txtPaisM" placeholder="Pais del Puerto">
+                    </div>
+                    <div class="form-group">
+                        <label for="registroM">Registro Mercantil</label>
+                        <input type="text" class="form-control" id="registroM" placeholder="Registro Mercantil">
+                    </div>
+                    <div class="form-group">
+                        <label for="Estado">Estado</label>
+                        <input type="text" class="form-control" id="Estado" placeholder="Estado">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                <button type="button" id="btnSave" class="btn btn-primary" onclick="javascript:GuardarPuertoEditado()">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="~/Scripts/Views/Puerto/Puerto.js"></script>
+
+
+<style>
+    .k-grid-header .k-header {
+        height: 70px;
+        padding: 0;
+        overflow: visible;
+        white-space: normal;
+    }
+
+    .searchButton {
+        height: 46px;
+        width: 90px;
+        cursor: pointer;
+        border: none;
+        background-color: aqua;
+    }
+
+    .card-header:first-child {
+        border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+    }
+
+    .card-header {
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    }
+
+    .col-md-12 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    *, *::before, *::after {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+</style>
+

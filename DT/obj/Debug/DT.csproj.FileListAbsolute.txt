@@ -1,0 +1,785 @@
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\DT.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\DT.pdb
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\netstandard.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.AppContext.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Collections.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Collections.Specialized.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ComponentModel.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Console.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Data.Common.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Globalization.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.Compression.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.Pipes.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Linq.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Linq.Expressions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Linq.Parallel.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Linq.Queryable.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Http.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.NameResolution.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Ping.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Requests.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Security.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.Sockets.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Net.WebSockets.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ObjectModel.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Reflection.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Resources.Reader.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Resources.Writer.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Handles.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Claims.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.Principal.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Security.SecureString.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Text.Encoding.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.Tasks.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.Thread.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Threading.Timer.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.ValueTuple.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.XDocument.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.XPath.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\obj\Debug\DT.csproj.CopyComplete
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\obj\Debug\DT.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DT\obj\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\netstandard.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.AppContext.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Collections.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Collections.Specialized.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ComponentModel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Console.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Data.Common.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Globalization.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.Compression.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.Pipes.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Linq.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Linq.Expressions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Linq.Parallel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Linq.Queryable.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Http.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.NameResolution.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Ping.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Requests.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Security.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.Sockets.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Net.WebSockets.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ObjectModel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Reflection.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Resources.Reader.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Resources.Writer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Handles.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Claims.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.Principal.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Security.SecureString.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Text.Encoding.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.Tasks.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.Thread.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Threading.Timer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.ValueTuple.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.XDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.XPath.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Buffers.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Memory.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Buffers.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Memory.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\obj\Debug\DT.csproj.CopyComplete
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\obj\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DT\obj\Debug\DT.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\DT.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\DT.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\netstandard.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.AppContext.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.Specialized.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Console.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Data.Common.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Compression.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Pipes.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Expressions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Parallel.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Queryable.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Http.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.NameResolution.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Ping.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Requests.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Security.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Sockets.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebSockets.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ObjectModel.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.Reader.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.Writer.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Handles.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Claims.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Principal.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.SecureString.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.Encoding.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Tasks.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Thread.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Timer.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ValueTuple.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XDocument.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XPath.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csproj.CopyComplete
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\netstandard.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.AppContext.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Collections.Specialized.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Console.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Data.Common.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Compression.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.Pipes.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Expressions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Parallel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Linq.Queryable.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Http.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.NameResolution.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Ping.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Requests.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Security.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.Sockets.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Net.WebSockets.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ObjectModel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.Reader.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Resources.Writer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Handles.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Claims.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.Principal.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Security.SecureString.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.Encoding.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Tasks.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Thread.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Threading.Timer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.ValueTuple.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XPath.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Buffers.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Memory.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Buffers.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Memory.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.csproj.CopyComplete
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DT\obj\Debug\DT.pdb
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\DT.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\DT.pdb
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\netstandard.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.AppContext.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Collections.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Collections.Specialized.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ComponentModel.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Console.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Data.Common.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Globalization.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.Compression.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.FileSystem.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.Pipes.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Linq.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Linq.Expressions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Linq.Parallel.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Linq.Queryable.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Http.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.NameResolution.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Ping.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Requests.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Security.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.Sockets.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Net.WebSockets.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ObjectModel.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Reflection.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Resources.Reader.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Resources.Writer.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Handles.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Claims.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.Principal.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Security.SecureString.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Text.Encoding.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.Tasks.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.Thread.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Threading.Timer.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.ValueTuple.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.XDocument.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.XPath.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\Documents\Naviera2\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\Users\carlosabs\Documents\Naviera2\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\Documents\Naviera2\DT\obj\Debug\DT.csproj.CopyComplete
+C:\Users\carlosabs\Documents\Naviera2\DT\obj\Debug\DT.dll
+C:\Users\carlosabs\Documents\Naviera2\DT\obj\Debug\DT.pdb
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\DT.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\DT.pdb
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\netstandard.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.AppContext.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Collections.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Collections.Specialized.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ComponentModel.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Console.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Data.Common.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Globalization.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.Compression.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.FileSystem.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.Pipes.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Linq.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Linq.Expressions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Linq.Parallel.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Linq.Queryable.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Http.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.NameResolution.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Ping.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Requests.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Security.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.Sockets.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Net.WebSockets.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ObjectModel.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Reflection.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Resources.Reader.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Resources.Writer.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Handles.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Claims.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.Principal.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Security.SecureString.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Text.Encoding.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.Tasks.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.Thread.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Threading.Timer.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.XDocument.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.XPath.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\Naviera2\DT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\Naviera2\DT\obj\Debug\DT.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Naviera2\DT\obj\Debug\DT.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Naviera2\DT\obj\Debug\DT.csproj.CopyComplete
+C:\Users\USER\source\repos\Naviera2\DT\obj\Debug\DT.dll
+C:\Users\USER\source\repos\Naviera2\DT\obj\Debug\DT.pdb

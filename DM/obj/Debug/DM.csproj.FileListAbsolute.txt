@@ -1,0 +1,324 @@
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\DM.dll.config
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\DM.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\DM.pdb
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\DT.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\EntityFramework.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Soporte.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\netstandard.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\DT.pdb
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Soporte.pdb
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Soporte.dll.config
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\EntityFramework.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.csproj.CopyComplete
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.dll
+C:\Users\carlosabs\source\repos\Ejemplo1\DM\obj\Debug\DM.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\DM.dll.config
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\DM.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\DM.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\EntityFramework.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Soporte.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\netstandard.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Memory.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Buffers.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Soporte.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Soporte.dll.config
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\EntityFramework.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Memory.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\bin\Debug\System.Buffers.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.csproj.CopyComplete
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Ejemplo1\DM\obj\Debug\DM.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.dll.config
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DT.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\netstandard.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DT.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.pdb
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.dll.config
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.CopyComplete
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.dll
+C:\Users\carlosabs\Source\Repos\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.dll.config
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DM.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DT.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\netstandard.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Memory.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Buffers.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\DT.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.pdb
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Soporte.dll.config
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Memory.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\bin\Debug\System.Buffers.xml
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.csproj.CopyComplete
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.dll
+C:\CARLOS\UDEA\Estructura Fis Inf II\Trabajo1-ESTRUC-FIS-INF\DM\obj\Debug\DM.pdb
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\DM.dll.config
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\DM.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\DM.pdb
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\DT.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\EntityFramework.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Soporte.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\netstandard.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Memory.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Buffers.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\DT.pdb
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Soporte.pdb
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Soporte.dll.config
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\EntityFramework.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Memory.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\bin\Debug\System.Buffers.xml
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.csproj.CopyComplete
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.dll
+C:\Users\carlosabs\Documents\Naviera2\DM\obj\Debug\DM.pdb
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\DM.dll.config
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\DM.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\DM.pdb
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\DT.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Soporte.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\netstandard.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\DT.pdb
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Soporte.pdb
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Soporte.dll.config
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\Naviera2\DM\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.Resources.ProcedimientosAlmacenados.resources
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.csproj.CopyComplete
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.dll
+C:\Users\USER\source\repos\Naviera2\DM\obj\Debug\DM.pdb

@@ -1,0 +1,157 @@
+﻿
+@{
+    ViewBag.Title = "Escala";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container-page-body col-md-12">
+    <div class="card-header col-md-12 row">
+        <div class="col-md-12">
+            <center><b>ESCALAS</b></center>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div class="panel panel-info">
+        <div class="card-body">
+            <center><h4>Ingrese la Información de la nueva Escala para registrarla</h4></center>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+
+
+                    @*<div class="form-group">*@
+                    <div class="col-md-12">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-3">
+                            <label align="left">Viaje:</label>
+                        </div>
+                        <div class="col-md-3">
+                            <select id="cmbViaje" style="width:90%;" class="form-control"></select>
+                            @*<input type="text" style="width: 90%;" class="form-control" id="txtNombreBarco" />*@
+                        </div>
+                        <div class="col-md-2">
+                            <label>Fecha Escala:</label>
+
+                        </div>
+                        <div class="col-md-2">
+                            <input type="date" id="txtFecha"  class="form-control"/>
+                        </div>
+                        @*<div class="col-md-1"></div>*@
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3">
+                        <label align="left">Puerto Escala:</label>
+                    </div>
+                    <div class="col-md-3">
+                        <select id="cmbPuerto" class="form-control"></select>
+
+                    </div>
+                    <div class="col-md-2">
+                        <label>Cantidad de Días:</label>
+                    </div>
+                    <div class="col-md-2">
+                        <input type="number" id="txtDias"  class="form-control"/>
+
+                    </div>
+                    @*<div class="col-md-1"></div>*@
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-4" align="center">
+                        <center>
+                            <div class="form-group form-inline">
+                                <input type="button" value="Guardar Escala" onclick="javascript:GuardarEscala()" />
+                                <input type="button" value="Consultar Escala" onclick="javascript:ConsultarEscalas()" />
+                                <input type="button" value="Ver Diagrama" onclick="window.location.href='@Url.Action("TreeView", "Escala")'" />
+                                
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+<table id="grid-selection" class="table table-condensed table-hover table-striped">
+    <thead>
+        <tr>
+
+            <th data-column-id="IdEscala">Id Escala</th>
+            <th data-column-id="Viaje">Viaje</th>
+            <th data-column-id="PuertoEscala" data-order="desc">Puerto Escala</th>
+            <th data-column-id="FechaEscala" data-formatter="link" data-sortable="false">Fecha Escala</th>
+            <th data-column-id="Dias" data-order="desc">No. Días</th>
+        </tr>
+    </thead>
+    <tbody id="bodyId"></tbody>
+</table>
+
+
+
+<script src="~/Scripts/Views/Escala/Escala.js"></script>
+
+
+<style>
+    .k-grid-header .k-header {
+        height: 70px;
+        padding: 0;
+        overflow: visible;
+        white-space: normal;
+    }
+
+    .searchButton {
+        height: 46px;
+        width: 90px;
+        cursor: pointer;
+        border: none;
+        background-color: aqua;
+    }
+
+    .card-header:first-child {
+        border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+    }
+
+    .card-header {
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 0;
+        background-color: rgba(0, 0, 0, 0.03);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    }
+
+    .col-md-12 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    *, *::before, *::after {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+</style>
+
+
+

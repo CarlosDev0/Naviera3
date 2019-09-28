@@ -1,0 +1,159 @@
+﻿@{
+    ViewBag.Title = "DetalleViaje";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container-page-body col-md-12">
+    <div class="card-header col-md-12 row">
+        <div class="col-md-12">
+            <center><b>DETALLE VIAJES</b></center>
+        </div>
+
+    </div>
+
+    <hr>
+
+    <div class="panel panel-info">
+        <div class="card-body">
+            <center><h4>Información del viaje Seleccionado:</h4></center>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+
+
+                    @*<div class="form-group">*@
+                    <div class="col-md-12">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-3">
+                            <label align="left">Nombre Barco:</label>
+                        </div>
+                        <div class="col-md-3">
+                            <label id="txtNombreBarco" style="width:90%;" class="form-control"></label>
+                            @*<input type="text" style="width: 90%;" class="form-control" id="txtNombreBarco" />*@
+                        </div>
+                        <div class="col-md-2">
+                            <label>Capitan:</label>
+
+                        </div>
+                        <div class="col-md-2">
+                            <label id="txtCapitan" style="width: 90%;" class="form-control"></label>
+                        </div>
+                        @*<div class="col-md-1"></div>*@
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <div class="col-md-12 form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-3">
+                        <label align="left">Puerto Origen:</label>
+                    </div>
+                    <div class="col-md-3">
+                        <label id="txtPuertoOrigen" class="form-control"></label>
+
+                    </div>
+                    <div class="col-md-2">
+                        <label>Puerto Destino:</label>
+                    </div>
+                    <div class="col-md-2">
+                        <label id="txtPuertoDestino" class="form-control"></label>
+
+                    </div>
+                    @*<div class="col-md-1"></div>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-page-body col-md-12">
+    <div class="panel panel-info">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-12 form-group">
+                    <label>Adicionar Marineros</label>
+                    <div class="form-inline">
+                        <center>
+                            <select id="cmbMarineros" class="form-control"  onchange="showOptions(this)"></select>
+                            <button class="k-button k-primary" id="btnAdicionar" onclick="javascript:AdicionarMarinero()">Adicionar Marinero</button>
+                            <input type="button" value="Consultar Marineros" onclick="javascript:ConsultarMarinerosViaje()" />
+                        </center>
+                    </div>
+
+                </div>
+
+            </div>
+
+            
+
+        </div>
+
+    </div>
+</div>
+
+
+
+    <table id="grid-selection" class="table table-condensed table-hover table-striped">
+        <thead>
+            <tr>
+                <th data-column-id="idViaje">Id Viaje</th>
+                <th data-column-id="cedulaMarinero">Cédula Marinero</th>
+                <th data-column-id="Nombre">Nombre Marinero</th>
+                
+
+            </tr>
+        </thead>
+        <tbody id="bodyId"></tbody>
+    </table>
+
+
+
+    <script src="~/Scripts/Views/Viaje/DetalleViaje.js"></script>
+
+
+    <style>
+        .k-grid-header .k-header {
+            height: 70px;
+            padding: 0;
+            overflow: visible;
+            white-space: normal;
+        }
+
+        .searchButton {
+            height: 46px;
+            width: 90px;
+            cursor: pointer;
+            border: none;
+            background-color: aqua;
+        }
+
+        .card-header:first-child {
+            border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+        }
+
+        .card-header {
+            padding: 0.75rem 1.25rem;
+            margin-bottom: 0;
+            background-color: rgba(0, 0, 0, 0.03);
+            border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+        }
+
+        .col-md-12 {
+            -webkit-box-flex: 0;
+            -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+            max-width: 100%;
+        }
+
+        *, *::before, *::after {
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+    </style>
